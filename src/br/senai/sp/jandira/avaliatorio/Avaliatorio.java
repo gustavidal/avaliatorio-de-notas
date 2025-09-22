@@ -1,6 +1,6 @@
-package br.senai.sp.jandira.ds1t.avaliatorio;
+package br.senai.sp.jandira.avaliatorio;
 
-import br.senai.sp.jandira.ds1t.avaliatorio.model.Aluno;
+import br.senai.sp.jandira.avaliatorio.model.Aluno;
 
 public class Avaliatorio {
     public static void main(String[] args) {

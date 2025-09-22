@@ -1,4 +1,4 @@
-package br.senai.sp.jandira.ds1t.avaliatorio.model;
+package br.senai.sp.jandira.avaliatorio.model;
 
 import java.util.Scanner;
 
