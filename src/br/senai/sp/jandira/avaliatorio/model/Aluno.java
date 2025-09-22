@@ -61,7 +61,7 @@ public class Aluno {
         System.out.println("Nota 4: " + nota4);
         System.out.println("------------------------------------------------------");
         System.out.println("Média da(a) aluno(a): " + mediaDecimal);
-        System.out.println("O(A) aluno(a), " + nome + ", está com " + situacao);
+        System.out.println("O(A) aluno(a), " + nome + ", está em " + situacao);
         System.out.println("************************************");
     }
 }
