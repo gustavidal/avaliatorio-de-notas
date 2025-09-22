@@ -1,9 +1,8 @@
 package br.senai.sp.jandira.ds1t.avaliatorio.model;
 
-import java.awt.*;
 import java.util.Scanner;
 
-public class AvaliatorioDoAluno {
+public class Aluno {
 
     String nome;
     String situacao;
