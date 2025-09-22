@@ -39,7 +39,7 @@ public class Aluno {
 
         media = somaDasNotas / 4;
 
-        if (media >= 5){
+        if (media >= 5.0){
             situacao = "aprovado";
         } else {
             situacao = "reprovado";
