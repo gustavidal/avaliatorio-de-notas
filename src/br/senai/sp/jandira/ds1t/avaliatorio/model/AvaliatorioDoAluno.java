@@ -49,7 +49,7 @@ public class AvaliatorioDoAluno {
 
     public void exibirResultados(){
         String mediaDecimal = String.format("%.2f", media);
-        System.out.println("*****CÁLCULO DE MÉDIA ESCOLAR*****");
+        System.out.println("***** CÁLCULO DE MÉDIA ESCOLAR *****");
         System.out.println("------------------------------------------------------");
         System.out.println("Nome do(a) aluno(a): " + nome);
         System.out.println("Nota 1: " + nota1);
