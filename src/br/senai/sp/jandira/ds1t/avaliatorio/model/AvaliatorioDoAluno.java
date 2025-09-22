@@ -49,14 +49,16 @@ public class AvaliatorioDoAluno {
 
     public void exibirResultados(){
         String mediaDecimal = String.format("%.2f", media);
-        System.out.println("************************************");
+        System.out.println("*****CÁLCULO DE MÉDIA ESCOLAR*****");
+        System.out.println("------------------------------------------------------");
         System.out.println("Nome do(a) aluno(a): " + nome);
         System.out.println("Nota 1: " + nota1);
         System.out.println("Nota 2: " + nota2);
         System.out.println("Nota 3: " + nota3);
         System.out.println("Nota 4: " + nota4);
+        System.out.println("------------------------------------------------------");
         System.out.println("Média da(a) aluno(a): " + mediaDecimal);
-        System.out.println("O(A) aluno(a), " + nome + ", está " + situacao + "(a)");
+        System.out.println("O(A) aluno(a), " + nome + ", está " + situacao + "(a)!");
         System.out.println("************************************");
     }
 }
