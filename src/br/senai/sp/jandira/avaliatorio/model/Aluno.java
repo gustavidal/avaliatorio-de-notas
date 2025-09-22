@@ -35,7 +35,9 @@ public class Aluno {
     }
 
     public void calcularDadosEAprovacao(){
-        media = (nota1 + nota2 + nota3 + nota4) / 4;
+        double somaDasNotas = nota1 + nota2 + nota3 + nota4;
+
+        media = somaDasNotas / 4;
 
         if (media >= 5){
             situacao = "aprovado";
